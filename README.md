@@ -4,3 +4,5 @@ I am a R(esearch) Software Engineer, part-time with [rOpenSci](https://ropensci.
 I also created the [R-hub blog](https://blog.r-hub.io) and co-wrote the online book [HTTP testing in R](https://books.ropensci.org/http-testing) with Scott Chamberlain. 
 I regularly contract for various organizations, including research institutions, for developing or strengthening R packages. 
 I have a PhD in Statistics. I live in Nancy, France. 
+
+_© Profile picture by [Julie Noury Soyer](https://photographe-julienourysoyer.com/)_
