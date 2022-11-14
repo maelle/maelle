@@ -7,4 +7,4 @@ I have a PhD in Statistics. I live in Nancy, France.
 
 _© Profile picture by [Julie Noury Soyer](https://photographe-julienourysoyer.com/)_
 
-<link rel="me" href="https://mastodon.social/@maelle">Mastodon</link>
+<link rel="me" href="https://mastodon.social/@maelle"></link>
